@@ -1,1 +1,2 @@
-# If you copy from my work, you could receive a zero on the assignment for academic dishonesty.
+- The course is easily to pass with a score at 9.0!
+- So if you copy from my work, you could receive a zero on the assignment for academic dishonesty.
