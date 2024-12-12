@@ -1,2 +1,1 @@
-- The course is easily to pass with a score at 9.0.
-- So if you copy from my work, you could receive a zero on the assignment for academic dishonesty.
+The course is relatively easy to pass with a score of 9.0. However, copying from others' work is considered academic dishonesty and will result in a score of zero on the assignment.
